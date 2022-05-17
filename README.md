@@ -3,10 +3,10 @@
 
 <center>
   
-### <img src="https://media.giphy.com/media/l0Iych4GHWMRxci2I/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/l0Iych4GHWMRxci2I/giphy.gif" width="50">   
 ### Hi there 👋, My name is Haktan
 #### This is my github profile
-![This is my github profile](https://img.freepik.com/free-vector/space-banner-with-purple-planet-landscape_107791-6230.jpg?w=1800&t=st=1652787713~exp=1652788313~hmac=bfd7e797684fd67b4ab3a4bdc48fa3d2f8b88786bafb2cea097569c28ca62240)
+![This is my github profile](https://github.com/HaktanAlbayrak/HaktanAlbayrak/blob/main/astranot.jpg)
 
 I'm a Frontend Developer. now I have directed my time to improve myself in this branch. I made a few projects on react and javascript, you can see them on my github account. I am now working in the .NET team at NTT Data Business Solutions.
 
@@ -33,11 +33,6 @@ Skills: REACT / JS / HTML / CSS
 
 
 ![](https://komarev.com/ghpvc/?username=HaktanAlbayrak&&color=blueviolet&label=PROFILE+VIEWS) 
-
-
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="/bb.svg" />
-<br />
 
   
 </center>
