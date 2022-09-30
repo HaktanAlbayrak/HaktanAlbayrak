@@ -12,7 +12,7 @@ I'm a Frontend Developer. now I have directed my time to improve myself in this 
 
 Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on  [NOTE APP](https://noteappwith-reduxtoolkit.netlify.app )
+- 🔭 I’m currently working on Bill Gates spend money
 - 🌱 I’m currently learning Redux/toolkit 
 - 💬 Ask me about Frontend 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/haktan-albayrak-55539422b/ )
