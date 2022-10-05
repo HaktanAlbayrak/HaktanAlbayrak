@@ -25,15 +25,6 @@ Skills: REACT / JS / HTML / CSS
 | ------------- | ------------- |
 
  
-<div>
-  <br />
-   <a href="https://github.com/HaktanAlbayrak"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HaktanAlbayrak&bg_color=2b213a&color=d5308e&line=d5308e&point=c4c9d1&hide_border=true" /></a>
-  <br />
-  </div> 
-
-
-![](https://komarev.com/ghpvc/?username=HaktanAlbayrak&&color=blueviolet&label=PROFILE+VIEWS) 
-
   
 </center>
   
