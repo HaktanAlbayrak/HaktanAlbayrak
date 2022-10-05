@@ -21,8 +21,6 @@ Skills: REACT / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/HaktanAlbayrak)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/haktan-albayrak-55539422b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/haktan_albyrk/?hl=tr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Haktan_Albyrk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/https://codesandbox.io/u/HaktanAlbayrak)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/https://www.reddit.com/user/T-Bugg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'>](https://tr.reactjs.org/)  
 
-| <a href="https://github.com/HaktanAlbayrak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HaktanAlbayrak&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Cihat's github stats" /></a> | <a href="https://github.com/HaktanAlbayrak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaktanAlbayrak&layout=compact&theme=radical&hide_border=true" /></a> |
-| ------------- | ------------- |
 
  
   
