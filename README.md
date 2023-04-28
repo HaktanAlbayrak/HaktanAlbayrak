@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at **I am working on it**
-
 - 💬 Ask me about **ReactJs,Redux-toolkit,Css**
 
 - 📫 How to reach me **haktan.albayrak01@gmail.com**
