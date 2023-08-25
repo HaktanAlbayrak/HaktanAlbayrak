@@ -20,10 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@haktanalbayrak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@haktanalbayrak" height="30" width="40" /></a>
 <a href="https://twitter.com/@haktan_albyrk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@haktan_albyrk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fe_haktan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fe_haktan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20409260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20409260" height="30" width="40" /></a>
 <a href="https://codesandbox.com/haktanalbayrak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="haktanalbayrak" height="30" width="40" /></a>
 <a href="https://instagram.com/haktan_albyrk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haktan_albyrk" height="30" width="40" /></a>
 </p>
