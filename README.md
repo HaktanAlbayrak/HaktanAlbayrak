@@ -8,10 +8,6 @@
 
 - 🔭 I’m currently working on **My portfolio website**
 
-- 🌱 I’m currently learning **TypeScript**
-
-- 💬 Ask me about **ReactJs,Redux-toolkit,Css**
-
 - 📫 How to reach me **haktan.albayrak01@gmail.com**
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/haktan-albayrak-55539422b/)
