@@ -48,7 +48,7 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=haktanalbayrak&show_icons=true&theme=radium&hide_border=true" alt="Haktan's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haktanalbayrak&theme=radical" alt="Haktan's GitHub Stats" />
 </p>
 
 ---
